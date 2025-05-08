@@ -36,6 +36,8 @@ The dashboard was designed to help stakeholders:
 - <a href="https://github.com/Jayeshsoni6010/PowerBI-Data-Analysis-Projects/blob/main/Orders.csv">Orders</a>
 
   ## Dashboard
+  - <a href="https://github.com/Jayeshsoni6010/PowerBI-Data-Analysis-Projects/blob/main/Madhav%20Ecommerce%20Sales%20Dashboard.pbix">View Dashboard</a>
+  
   ![Madhv Ecommerce Sales Dashboard](https://github.com/user-attachments/assets/04e7a874-bc2e-4bcf-8def-6071b83b060e)
 
 
