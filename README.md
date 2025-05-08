@@ -31,6 +31,10 @@ The dashboard was designed to help stakeholders:
 - DAX (Data Analysis Expressions)
 - Data Modeling (Joins, Relationships)
 
+## Dataset used
+- <a href="https://github.com/Jayeshsoni6010/PowerBI-Data-Analysis-Projects/blob/main/Details.csv">Details</a>
+- <a hreft="https://github.com/Jayeshsoni6010/PowerBI-Data-Analysis-Projects/blob/main/Orders.csv">Orders</a>
+
   ## Dashboard
   ![Madhv Ecommerce Sales Dashboard](https://github.com/user-attachments/assets/04e7a874-bc2e-4bcf-8def-6071b83b060e)
 
